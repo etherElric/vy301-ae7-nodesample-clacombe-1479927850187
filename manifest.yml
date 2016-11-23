@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: vy301-ae7-nodesample-clacombe
+  host: vy301-ae7-nodesample-clacombe
+  disk_quota: 1024M
